@@ -1,4 +1,8 @@
-| Subject                                                                            | Medium Article                                                                                                                                | Code                                                                                                       |
+# Effective Data Engineering
+
+Data engineering is the bedrock of data science - learn the necessary skills to collect, clean and manipulate data to extract insights and mine valuable data for downstream analytics.
+
+| Topic                                                                              | Medium Article                                                                                                                                | Code                                                                                                       |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | **How to Easily Validate Your Data With Pandera**                                  | [![Medium]()](https://medium.com/towards-data-science/how-to-easily-validate-your-data-with-pandera-a9cd22c515a5)                             | ![Code](https://github.com/chonalchendo/effective-data-engineering/blob/main/medium_data_validation.ipynb) |
 | **Master Pandas to Build Modular and Reusable Data Pipelines**                     | [![Medium]()](https://medium.com/@conalhenderson/master-pandas-to-build-modular-and-reusable-data-pipelines-1d12b003a423)                     | ![Code](https://github.com/chonalchendo/effective-data-engineering/blob/main/medium_processing_code.ipynb) |
